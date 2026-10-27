@@ -1,0 +1,6 @@
+{
+  "name": "ServiceBoard",
+  "description": "Small service business request organizer with status pipelines, scheduling, and local persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
